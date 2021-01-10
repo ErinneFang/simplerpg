@@ -5,7 +5,7 @@ public class HelloWorld {
         System.out.println("Hello World");
 		System.out.println("Hello Everybody!!");
 		
-		int a = 123;
+		int a = 123;  // number
 
     }
 	
